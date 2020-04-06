@@ -5,7 +5,7 @@ import { MdArrowBack } from 'react-icons/md';
 
 import './styles.scss';
 
-import logoImg from '../../assets/logo.png'
+import logoImg from '../../assets/logo.png';
 
 export default function Error() {
   return (
