@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { MdArrowBack } from 'react-icons/md';
 
-
 import './styles.scss';
 
 import logoImg from '../../assets/logo.png';
