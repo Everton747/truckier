@@ -11,6 +11,7 @@ export default function Routes() {
       <Switch>
         <Route path="/" exact component={Index}></Route>
         <Route path="/new" exact component={Profile}></Route>
+        <Route path="/profile" exact component={Profile}></Route>
         <Route component={Error}></Route>
       </Switch>
     </BrowserRouter>
