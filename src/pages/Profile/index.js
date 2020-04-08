@@ -79,9 +79,7 @@ export default function Edit(props) {
             <button onClick={updateDriver}>Atualizar</button> :
             <button onClick={createDriver}>Cadastrar</button>
           }
-
         </form>
-
       </div>
     </div>
   );
